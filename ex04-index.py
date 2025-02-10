@@ -27,7 +27,6 @@ def indice_maior_elemento(lista):
     else:
         return indice_resto + 1
 
-
 teste = [1, 5, 3, 9, 2]
 print(indice_maior_elemento(teste))  
 
